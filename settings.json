@@ -1,0 +1,10 @@
+{
+  "cps": 21,
+  "mode": "hold",
+  "bind_left": 6,
+  "bind_right": 5,
+  "overlay": true,
+  "always_on_top": true,
+  "failsafe": true,
+  "hud_corner": "tl"
+}
