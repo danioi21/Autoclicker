@@ -9,7 +9,7 @@
 
 ![Главное окно](docs/screenshots/main.png)
 
-Работающий кликер с оверлеем:
+Работающий кликер с оверлеем (оно же крупно — [overlay](docs/screenshots/overlay.png)):
 
 ![Активный режим с оверлеем](docs/screenshots/active.png)
 
